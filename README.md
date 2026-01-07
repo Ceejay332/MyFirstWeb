@@ -1,2 +1,2 @@
-# MyFirstWeb
-MyFirstWeb, trail &amp; error using html5
+# My HTML5 project
+
