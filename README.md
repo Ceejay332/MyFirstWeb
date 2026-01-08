@@ -1,4 +1,6 @@
-gTienre Sounds Website 🎵
+**Ceejay**
+- GitHub: https://github.com/Ceejay332
+- Role: Frontend Developer 
 
 A responsive HTML-only website for Tienre Sounds, featuring a navigation bar, authentication pages, and informational pages. Built with clean, semantic HTML for easy readability and maintainability.
 
@@ -32,7 +34,7 @@ reset-password.html Password reset form
 
 1. Clone or download the repository:
 
-git clone https://github.com/yourusername/tienre-sounds.git
+git clone https://github.com/Ceejay332/My-HTML5-project.git
 
 2. Open index.html in any modern web browser.
 
