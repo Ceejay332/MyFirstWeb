@@ -10,8 +10,6 @@ A responsive HTML-only website for Tienre Sounds, featuring a navigation bar, au
 
 • Authentication Pages: Login, Sign Up, and Reset Password
 
-• Responsive Design: Simple, clean layout optimized for desktop and mobile browsers
-
 • Static HTML: No backend required, easy to deploy
 
 🔹 Pages Overview
